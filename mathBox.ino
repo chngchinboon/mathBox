@@ -126,7 +126,6 @@ void loop() {
 int genQuery(int digits, int args, int add, int minus, int multiply, divide){
   for (int i = 0; i<digits;i++){
     randNumber = random(0,9)    
-    
   }
   
   int result;
